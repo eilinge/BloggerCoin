@@ -1,3 +1,4 @@
+npm install -g zeppelin-solidity
 truffle(develop) >>
 /*
 Accounts:
